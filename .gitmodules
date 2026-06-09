@@ -1,3 +1,4 @@
 [submodule "external/debugger-libs"]
 	path = external/debugger-libs
-	url = https://github.com/mono/debugger-libs.git
+	url = ssh://git@github.com/DependencyCodeEditorLand/DebuggerLibs.git
+	ignore = all
